@@ -23,6 +23,8 @@ namespace Login.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
+            //hablaaaa xdxd COMMIT
+            //COMITT
 
             return View();
         }
